@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Azumayuk1
-- 👀 I’m interested in movies, books, anime, videogames, sports, history and travel!
 - 🌱 I’m currently learning Kotlin and Android Development!
 
 
